@@ -31,12 +31,12 @@ This Password Manager is a secure web application built with Flask that allows u
    
 Set up your MySQL database and configure the connection settings in the code.
 
-## Generate a secret key:**
+## Generate a secret key:
 
  from your_flask_app import generate_key
  generate_key()
 
-## Run the Flask application:**
+## Run the Flask application:
 
 
    python password_manager.py
