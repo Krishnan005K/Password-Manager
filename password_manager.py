@@ -29,9 +29,12 @@ def connect_db():
     return mysql.connector.connect(
         host="localhost",
         user="root",
-        password="Your Password",  #Update with your MySQL password
-        database="Your Database Name" #update with your MySQL database
+        password="Krish@2005",  #Update with your MySQL password
+        database="password_manager" #update with your MySQL database
     )
+
+
+
 
 # Flask App
 app = Flask(__name__)
