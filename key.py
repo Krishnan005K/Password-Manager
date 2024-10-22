@@ -9,7 +9,3 @@ def generate_key():
 # Call the function to generate the key
 generate_key()
 
-
-
-
-
