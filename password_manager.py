@@ -33,7 +33,7 @@ def connect_db():
         database="password_manager" #update with your MySQL database
     )
 
-
+z
 # Flask App
 app = Flask(__name__)
 
